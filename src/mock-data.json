@@ -10,7 +10,7 @@
       "id": 2,
       "fullName": "arun ca",
       "address": "west jones road saidapet",
-      "phoneNumber": "855661323",
+      "phoneNumber": "8556613293",
       "email": "arunca@gmail.com"
     },
     {
@@ -33,12 +33,5 @@
       "address": "east mada street",
       "phoneNumber": "7299566323",
       "email": "balajidhandapani11@gmail.com"
-    },
-    {
-      "id": 5,
-      "fullName": "bali",
-      "address": "east mada street",
-      "phoneNumber": "7299566323",
-      "email": "bhandapani11@gmail.com"
     }
   ]
