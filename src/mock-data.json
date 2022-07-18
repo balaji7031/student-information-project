@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "fullName": "anand",
+      "address": "ttk road valasaravakkam",
+      "phoneNumber": "7550197372",
+      "email": "anandeswar@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "arun ca",
+      "address": "west jones road saidapet",
+      "phoneNumber": "855661323",
+      "email": "arunca@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "gokul",
+      "address": "andal nagar adambakkam",
+      "phoneNumber": "8838965118",
+      "email": "gokulswat@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "elamparithi",
+      "address": "nilalgal ravi street vadalur",
+      "phoneNumber": "6380447980",
+      "email": "elampuil@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "balaji",
+      "address": "east mada street",
+      "phoneNumber": "7299566323",
+      "email": "balajidhandapani11@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "bali",
+      "address": "east mada street",
+      "phoneNumber": "7299566323",
+      "email": "bhandapani11@gmail.com"
+    }
+  ]
